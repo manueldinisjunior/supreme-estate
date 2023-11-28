@@ -1,6 +1,6 @@
 # Supreme Estate Agency 
 
-![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/landingpage.jpg}
+![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/landingpage.jpg)
 
 ## Introduction
 
