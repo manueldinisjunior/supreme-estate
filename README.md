@@ -6,7 +6,7 @@
 
 This project is a responsive and stylish website for a real estate agency, developed using Bootstrap, HTML, CSS, SCSS, and JavaScript. It provides a user-friendly interface for users to browse available properties, view details, and contact the agency.
 
-**Author:** Manuel Dinis Junior
+**Author:** Manuel Dinis Junior<br>
 **GitHub:** [manueldinisjunior](https://github.com/manueldinisjunior)
 
 ## Features
