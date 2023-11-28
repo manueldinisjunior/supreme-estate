@@ -1,6 +1,6 @@
 # Supreme Estate Agency 
 
-![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/slide-1.jpg)
+![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/landingpage.jpg}
 
 ## Introduction
 
@@ -15,6 +15,8 @@ This project is a responsive and stylish website for a real estate agency, devel
 - Contact form for user inquiries.
 - Interactive features using JavaScript.
 - Stylish and modern UI/UX.
+
+![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/slide-1.jpg)
 
 ## Technologies Used
 
