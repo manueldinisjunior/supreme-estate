@@ -4,10 +4,9 @@
 
 ## Introduction
 
-This project is a responsive and stylish website for a real estate agency, developed using Bootstrap, HTML, CSS, SCSS, and JavaScript. It provides a user-friendly interface for users to browse available properties, view details, and contact the agency.
+This project is a responsive and stylish website for a real estate agency, developed using Bootstrap. It provides a user-friendly interface for users to browse available properties, view details, and contact the agency.
 
-**Author:** Manuel Dinis Junior<br>
-**GitHub:** [manueldinisjunior](https://github.com/manueldinisjunior)
+**Author:** [Manuel Dinis Junior](https://github.com/manueldinisjunior)
 
 ## Features
 
@@ -38,7 +37,7 @@ This project is a responsive and stylish website for a real estate agency, devel
 2. Open the project folder:
 
    ```bash
-   cd real-estate-agency
+   cd supreme-estate
    ```
 
 3. Open the `index.html` file in your preferred web browser.
