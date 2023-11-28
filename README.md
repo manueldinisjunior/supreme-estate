@@ -1,6 +1,6 @@
-# Real Estate Agency Website
+# Supreme Estate Agency 
 
-![Real Estate Agency](link_to_image)
+![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/slide-1.jpg)
 
 ## Introduction
 
