@@ -1,7 +1,6 @@
 # Supreme Estate Agency 
 
-![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/landingpage.jpg)
-
+![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/Slider-1.jpg)
 ## Introduction
 
 This project is a responsive and stylish website for a real estate agency, developed using Bootstrap. It provides a user-friendly interface for users to browse available properties, view details, and contact the agency.
@@ -16,7 +15,7 @@ This project is a responsive and stylish website for a real estate agency, devel
 - Interactive features using JavaScript.
 - Stylish and modern UI/UX.
 
-![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/slide-1.jpg)
+![Blog](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/blog.jpg)
 
 ## Technologies Used
 
@@ -27,6 +26,8 @@ This project is a responsive and stylish website for a real estate agency, devel
 - JavaScript
 - Git
 - Adobe Photoshop
+
+![Proprierties](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/proprierties.jpg)
 
 ## Setup and Installation
 
