@@ -1,6 +1,7 @@
-# Supreme Estate 
+# Webstack - Portfolio Project for ALX AFRICA Software Engineering Program 
 
 ![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/Slider-1.jpg)
+
 ## Introduction
 
 This project is a responsive and stylish website for a real estate agency, developed using Bootstrap. It provides a user-friendly interface for users to browse available properties, view details, and contact the agency.
@@ -24,8 +25,11 @@ This project is a responsive and stylish website for a real estate agency, devel
 - CSS
 - SCSS (Sass)
 - JavaScript
+- Php
 - Git
 - Adobe Photoshop
+- Jira
+- Trello
 
 ![Proprierties](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/proprierties.jpg)
 
