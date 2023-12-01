@@ -1,4 +1,4 @@
-# Webstack - Portfolio project for ALX AFRICA SOFTWARE ENGINEERING Program 
+# Webstack - Portfolio project
 
 ![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/Slider-1.jpg)
 
