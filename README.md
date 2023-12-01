@@ -1,4 +1,4 @@
-# Webstack - Portfolio Project for ALX AFRICA Software Engineering Program 
+# Webstack - Portfolio project for ALX AFRICA SOFTWARE ENGINEERING Program 
 
 ![Supreme Estate Agency](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/Slider-1.jpg)
 
@@ -38,7 +38,7 @@ This project is a responsive and stylish website for a real estate agency, devel
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/manueldinisjunior/supreme.estate.git
+   git clone https://github.com/manueldinisjunior/supreme-estate.git
    ```
 
 2. Open the project folder:
