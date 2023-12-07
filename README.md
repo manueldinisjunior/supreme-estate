@@ -20,18 +20,23 @@ This project is a responsive and stylish website for a real estate agency, devel
 
 ![Blog](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/blog.jpg)
 
-## Technologies Used
+# Technologies Used or Tools Worked with:
 
-- HTML
-- CSS
-- SCSS (Sass)
-- JavaScript
-- Bootstrap
-- PHP
-- Git
-- Adobe Photoshop
-- Jira
-- Trello
+### Responsive Web Development with Bootstrap
+
+- HTML, CSS, JavaScript
+- BootStrap
+- Php
+
+### Version Control
+
+- Github
+
+### Agile Methoddologies tool
+
+- ![Trello](https://trello.com/b/pGdKAjnz/web-stack-project-portfolio-supreme-estate)
+
+### UI
 
 ![Proprierties](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/proprierties.jpg)
 
