@@ -34,7 +34,7 @@ This project is a responsive and stylish website for a real estate agency, devel
 
 ### Agile Methoddologies tool
 
-- ![Trello](www.trello.com/b/pGdKAjnz/web-stack-project-portfolio-supreme-estate)
+- ![Trello](trello.com/b/pGdKAjnz/web-stack-project-portfolio-supreme-estate)
 
 ## Setup and Installation
 
