@@ -8,8 +8,6 @@ This project is a responsive and stylish website for a real estate agency, devel
 
 ![Landing Page](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/Slider-1.jpg)
 
-![Proprierties](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/proprierties.jpg)
-
 **Author:** [Manuel Dinis Junior](https://github.com/manueldinisjunior)
 
 ## Features
@@ -36,7 +34,7 @@ This project is a responsive and stylish website for a real estate agency, devel
 
 ### Agile Methoddologies tool
 
-- ![Trello](https://trello.com/b/pGdKAjnz/web-stack-project-portfolio-supreme-estate)
+- ![Trello](www.trello.com/b/pGdKAjnz/web-stack-project-portfolio-supreme-estate)
 
 ## Setup and Installation
 
@@ -71,6 +69,8 @@ This project is a responsive and stylish website for a real estate agency, devel
 ## Contributions
 
 Contributions are welcome! Feel free to submit issues or pull requests.
+
+![Proprierties](https://github.com/manueldinisjunior/supreme-estate/blob/main/assets/img/proprierties.jpg)
 
 ## License
 
